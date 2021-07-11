@@ -1,0 +1,8 @@
+.search_bar{
+    margin-top: 5%;
+}
+input {
+    width: 300px;
+    border-color: aliceblue;
+    border-radius: 5px;
+}

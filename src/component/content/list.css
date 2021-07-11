@@ -1,0 +1,44 @@
+img{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 60%;
+}
+h2{
+    height: 70px;
+}
+p{
+    height: 100px;
+}
+
+.global{
+    margin: 5%;
+    padding: 2%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.movie{
+    width: 20%;
+    margin: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    background-color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+ 
+}
+
+.addmovie{
+    width: 20%;
+    margin: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ 
+}
+
+.title{
+    padding: 2%;
+}
